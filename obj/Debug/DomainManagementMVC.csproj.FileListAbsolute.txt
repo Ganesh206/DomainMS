@@ -1,0 +1,245 @@
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\ApplicationInsights.config
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\csc.exe
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\vbc.exe
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\DomainManagementMVC.dll.config
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\DomainManagementMVC.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\DomainManagementMVC.pdb
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Antlr3.Runtime.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.Web.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Newtonsoft.Json.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Owin.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Helpers.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Mvc.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Optimization.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Razor.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\WebGrease.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.Web.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Helpers.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Mvc.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Optimization.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Razor.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Antlr3.Runtime.pdb
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Newtonsoft.Json.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\obj\Debug\DomainManagementMVC.dll
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\obj\Debug\DomainManagementMVC.pdb
+C:\Users\MEERA\documents\visual studio 2015\Projects\DomainManagementMVC\DomainManagementMVC\obj\Debug\DomainManagementMVC.csprojResolveAssemblyReference.cache
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\ApplicationInsights.config
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\csc.exe
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\vbc.exe
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\VBCSCompiler.exe
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\DomainManagementMVC.dll.config
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\DomainManagementMVC.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\DomainManagementMVC.pdb
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Antlr3.Runtime.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.SqlServer.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.Web.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.WindowsServer.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.ApplicationInsights.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Google.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Newtonsoft.Json.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Owin.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Helpers.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Mvc.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Optimization.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Razor.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Deployment.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Razor.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\WebGrease.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.Web.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.WindowsServer.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.ApplicationInsights.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Helpers.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Mvc.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Optimization.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Razor.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Deployment.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Razor.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Antlr3.Runtime.pdb
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Newtonsoft.Json.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.SqlServer.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Google.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\obj\Debug\DomainManagementMVC.csprojResolveAssemblyReference.cache
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\obj\Debug\DomainManagementMVC.dll
+D:\PROJECTS\DomainManagementMVC\DomainManagementMVC\DomainManagementMVC\obj\Debug\DomainManagementMVC.pdb
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\ApplicationInsights.config
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\csc.exe
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\vbc.exe
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\VBCSCompiler.exe
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\DomainManagementMVC.dll.config
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\DomainManagementMVC.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\DomainManagementMVC.pdb
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Antlr3.Runtime.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.SqlServer.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.Web.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.WindowsServer.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.ApplicationInsights.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Google.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Newtonsoft.Json.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Owin.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Helpers.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Mvc.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Optimization.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Razor.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Deployment.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Razor.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\WebGrease.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.Web.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AI.WindowsServer.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.ApplicationInsights.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Helpers.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Mvc.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Optimization.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.Razor.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Deployment.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\System.Web.WebPages.Razor.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Antlr3.Runtime.pdb
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Newtonsoft.Json.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\EntityFramework.SqlServer.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Google.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\obj\Debug\DomainManagementMVC.dll
+E:\MEERA PROJECTS\DomainManagementMVC\DomainManagementMVC\obj\Debug\DomainManagementMVC.pdb
